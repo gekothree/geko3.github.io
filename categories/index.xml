@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Geko3</title>
-    <link>https://gekothree.github.io/geko3.github.io/categories/</link>
+    <link>www.geko3.com/categories/</link>
     <description>Recent content in Categories on Geko3</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://gekothree.github.io/geko3.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="www.geko3.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
